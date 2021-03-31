@@ -1,0 +1,27 @@
+.Title {
+	font-family: arail;
+	font-size: 45px;
+	text-align: center;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.Paragraph {
+	font-family: Arial;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+
+.descriptionTitle {
+	font-family: Arial;
+	font-size: 20px;
+	text-align: center;
+	color: #FFFFFF
+}
+
+.paragraphTitle {
+	font-family: arail;
+	font-size: 30px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
